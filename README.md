@@ -20,4 +20,5 @@ This project documents a **manual SSH brute-force attack** against a vulnerable 
 - UID and group info was printed to confirm system access.
 
 ## 🧪 Result Snapshot
+In Result Folder
 
